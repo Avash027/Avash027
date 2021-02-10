@@ -20,8 +20,8 @@
 [![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://avash027.github.io/avashmitra)
 [![Expense Tracker App](https://img.shields.io/badge/ExpenseTracker-%20-red)](https://github.com/Avash027/expenseTracker)
 [![PIXALENS](https://img.shields.io/badge/PIXALENS-%20-blue)](https://github.com/Avash027/PixaLens)
-[![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)
+[![Programming Quiz](https://img.shields.io/badge/Quiz-%20-lightgrey)](https://github.com/Avash027/ProgrammingQuiz)
+[![CONTEST_INFO](https://img.shields.io/badge/Contests_INFO-%20-lightgrey)](https://github.com/Avash027/CONTEST_INFO)
 
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Avash027&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avash027&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
