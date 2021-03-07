@@ -1,12 +1,5 @@
-**Languages I have used**
-
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-
-
+# Hi, I am Avash 😀                                                          
+![NodeJS](https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 
 **Some of the technologies I have worked with**
 
@@ -17,11 +10,6 @@
 
 **Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://avash027.github.io/avashmitra)
-[![Expense Tracker App](https://img.shields.io/badge/ExpenseTracker-%20-red)](https://github.com/Avash027/expenseTracker)
-[![PIXALENS](https://img.shields.io/badge/PIXALENS-%20-blue)](https://github.com/Avash027/PixaLens)
-[![Programming Quiz](https://img.shields.io/badge/Quiz-%20-lightgrey)](https://github.com/Avash027/ProgrammingQuiz)
-[![CONTEST_INFO](https://img.shields.io/badge/Contests_INFO-%20-lightgrey)](https://github.com/Avash027/CONTEST_INFO)
 
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Avash027&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avash027&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
