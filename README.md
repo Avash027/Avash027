@@ -1,8 +1,8 @@
 # Hi, I am Avash 😀               
 
-## About Me
+**About Me**
 
-I am currently a CSE Undergrad at International Institute of Information and Technology, Bhubaneswar. I like to spend most of my time in Competitive Programming and Open Source Contri I
+I am currently a CSE Undergrad at International Institute of Information and Technology, Bhubaneswar. I like to spend most of my time in Competitive Programming and Open Source Contribution.
 
 **Some of the technologies I have worked with**
 
