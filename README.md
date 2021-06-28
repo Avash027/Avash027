@@ -1,27 +1,26 @@
-# Hi, I am Avash 😀               
+<h1 align="center">Hi 👋, I'm Avash Mitra</h1>
+<h3 align="center">I like to code</h3>
 
-**About Me**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avash027&label=Profile%20views&color=0e75b6&style=flat" alt="avash027" /> </p>
 
-I am currently a CSE Undergrad at International Institute of Information and Technology, Bhubaneswar. I like to spend most of my time in Competitive Programming and Open Source Contribution.
+- 🔭 I’m currently working on [E-Commerce Website (Nozama)](https://github.com/Avash027/Nozama)
 
-**Some of the technologies I have worked with**
+- 🌱 I’m currently learning **Redux, Mongoose , SASS and MongoDB**
 
-![NodeJS](https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
-![React](https://camo.githubusercontent.com/35ed2859d7e03b4695a17eedefe6c45c9120136860786d5475d0cf6f55d8c4f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333030443946462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
-![Javascript](https://camo.githubusercontent.com/f80550d14c8712bff08a63d8710f288917cc2287eab08011a7efbd1e6090a424/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
-![MongoDB](https://camo.githubusercontent.com/ee1a36683df64b1dc8e89fcff5310e3be466e17e0e7bbe317b451a85a9887fa8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e676f64622532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
-![Heroku](https://camo.githubusercontent.com/4700acfbec2ba981073f53d7d0c71f20ab638d66536c1de72f53ac348a699318/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465)
-![Git](https://camo.githubusercontent.com/979b3f3c24669197c36022edb8ac5f3ddb413c326a52499f16042145fa53aa6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+- 💬 Ask me about **ReactJS , Javascript , C++ , Java**
 
+- 📫 How to reach me **avashmitracoder@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/avash-mitra-4548761a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avash-mitra-4548761a6" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/avash12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avash12" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/avash_mitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="avash_mitra" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Avash027&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=radical" />
-<br>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avash027&hide_title=true&theme=radical" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avash027&show_icons=true&locale=en&layout=compact" alt="avash027" /></p>
 
-⭐️ From [Avash](https://github.com/Avash027)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avash027&show_icons=true&locale=en" alt="avash027" /></p>
