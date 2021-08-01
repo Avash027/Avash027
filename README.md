@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Website (Nozama)](https://github.com/Avash027/Nozama)
 
-- 🌱 I’m currently learning **Redux, React Testing**
+- 🌱 I’m currently learning **Redux, React Testing and OOP**
 
 - 💬 Ask me about **ReactJS , Javascript , C++ , Java**
 
