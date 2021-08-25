@@ -28,6 +28,7 @@
 <a href="https://codeforces.com/profile/avash_mitra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="avash_mitra" height="30" width="40" /></a>
 </p>
 
+
 <br>
 
 <h2> Languages and tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
