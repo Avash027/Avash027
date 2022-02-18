@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Avash Mitra</h1>
-<h3 align="center"> Coding is fun  </h3>
+<!-- <h3 align="center"> Coding is fun  </h3> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=avash027&label=Profile%20views&color=0e75b6&style=flat" alt="avash027" /> </p>
 
