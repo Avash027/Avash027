@@ -7,10 +7,10 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 
+<!-- 
+- 🔭 I’m currently working on [E-Commerce Website (Nozama)](https://github.com/Avash027/Nozama) -->
 
-- 🔭 I’m currently working on [E-Commerce Website (Nozama)](https://github.com/Avash027/Nozama)
-
-- 🌱 I’m currently learning **Redux, React Testing and OOP**
+<!-- - 🌱 I’m currently learning **NextJS** -->
 
 - 💬 Ask me about **ReactJS , Javascript , C++ , Java**
 
