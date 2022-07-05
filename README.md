@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **ReactJS , Javascript , C++ , Java**
 
-- 📫 How to reach me **avashmitracoder@gmail.com**
+- 📫 How to reach me **avashmitra2706@gmail.com**
 
 
 
