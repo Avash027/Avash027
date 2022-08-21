@@ -38,4 +38,8 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Concurrency Control using Snapshot Isolation](https://medium.com/@avashm/snapshot-isolation-a-guide-to-managing-concurrent-transaction-e0a450518a75?source=rss-f2a29e728ecd------2)
+- [How do databases recover from failure?](https://medium.com/@avashm/how-do-databases-recover-from-failure-537218289277?source=rss-f2a29e728ecd------2)
+- [Indexing and Mutability in In-Memory cache](https://medium.com/@avashm/indexing-and-mutability-in-in-memory-cache-4eab76a38a1b?source=rss-f2a29e728ecd------2)
+- [5 database engines you should know about](https://medium.com/codex/5-database-engines-you-should-know-about-a6d88f280a2e?source=rss-f2a29e728ecd------2)
 <!-- BLOG-POST-LIST:END -->
