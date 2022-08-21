@@ -13,11 +13,6 @@
 
 - 📫 How to reach me **avashmitra2706@gmail.com**
 
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/n0tavm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n0tavm" height="30" width="40" /></a>
@@ -39,6 +34,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avash027&" alt="avash027" /></p>
 
 </center>
+
+### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
