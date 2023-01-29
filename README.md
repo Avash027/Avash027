@@ -24,10 +24,10 @@
 
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Robust Web Crawler: From Requirements to Implementation](https://medium.com/@avashm/designing-a-robust-web-crawler-from-requirements-to-implementation-8a2fee5145f8?source=rss-f2a29e728ecd------2)
-- [Concurrency Control using Snapshot Isolation](https://medium.com/@avashm/snapshot-isolation-a-guide-to-managing-concurrent-transaction-e0a450518a75?source=rss-f2a29e728ecd------2)
-- [How do databases recover from failure?](https://medium.com/@avashm/how-do-databases-recover-from-failure-537218289277?source=rss-f2a29e728ecd------2)
-- [Indexing and Mutability in In-Memory cache](https://medium.com/@avashm/indexing-and-mutability-in-in-memory-cache-4eab76a38a1b?source=rss-f2a29e728ecd------2)
+- [How do databases recover from failure?](https://blogs.avash.in/how-do-databases-recover-from-failure)
+- [Preventing Goroutine Leaks: Best Practices and Tips for Go Developers](https://blogs.avash.in/preventing-goroutine-leaks-best-practices-and-tips-for-go-developers)
+- [Designing a Robust Web Crawler: From Requirements to Implementation](https://blogs.avash.in/designing-a-robust-web-crawler-from-requirements-to-implementation)
+- [Navigating the Landscape of Database Engines: A Beginner&#39;s Guide](https://blogs.avash.in/5-database-engines)
 <!-- BLOG-POST-LIST:END -->
 
 
