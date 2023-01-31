@@ -24,10 +24,10 @@
 
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Factory Design Patterns through the Construction of a Banking System](https://blogs.avash.in/mastering-factory-design-patterns-through-the-construction-of-a-banking-system)
 - [How do databases recover from failure?](https://blogs.avash.in/how-do-databases-recover-from-failure)
 - [Preventing Goroutine Leaks: Best Practices and Tips for Go Developers](https://blogs.avash.in/preventing-goroutine-leaks-best-practices-and-tips-for-go-developers)
 - [Designing a Robust Web Crawler: From Requirements to Implementation](https://blogs.avash.in/designing-a-robust-web-crawler-from-requirements-to-implementation)
-- [Navigating the Landscape of Database Engines: A Beginner&#39;s Guide](https://blogs.avash.in/5-database-engines)
 <!-- BLOG-POST-LIST:END -->
 
 
