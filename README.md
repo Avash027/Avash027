@@ -27,10 +27,10 @@
 
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Memcached at Scale: How Meta Scaled and Optimized for Massive Request Volumes](https://blogs.avash.in/memcached-at-scale-how-meta-scaled-and-optimized-for-massive-request-volumes)
 - [Making a Dynamic Renderer with Golang from Scratch](https://blogs.avash.in/making-a-dynamic-renderer-with-golang-from-scratch)
 - [Mastering Factory Design Patterns through the Construction of a Banking System](https://blogs.avash.in/mastering-factory-design-patterns-through-the-construction-of-a-banking-system)
 - [How do databases recover from failure?](https://blogs.avash.in/how-do-databases-recover-from-failure)
-- [Preventing Goroutine Leaks: Best Practices and Tips for Go Developers](https://blogs.avash.in/preventing-goroutine-leaks-best-practices-and-tips-for-go-developers)
 <!-- BLOG-POST-LIST:END -->
 
 
