@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avash Mitra</h1>
 
+- All about me @ [My Portfolio](https://avash.in)
+
 - 🔭 I’m currently working on something cool
 
 - 🌱 I’m currently learning **Golang, NextJS, Docker and Kubernetes**
